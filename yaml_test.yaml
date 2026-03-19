@@ -1,0 +1,9 @@
+name: 김민규
+addr: 송파구
+foods:
+  -돈까스
+  -피자
+isMan: true
+body:
+  weight: 85
+  height: 179
