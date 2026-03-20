@@ -20,7 +20,7 @@ first = "girl"
 second = "boy"
 # tmp=first
 # first=second
-# first=tmp
+# second=tmp
 #위의 3줄 아래와 같이 해결 가능
 first, second = second, first
 print("종료")

@@ -8,21 +8,21 @@
 
 # 1. 논리 연산자 : bool type 데이터를 연산 ( and, or, not)
 
-
+#둘다 Fasle일 때만 Falase
 print("-- or 연산 --")
 print("False or False :", False or False)  # False
 print("False or True :", False or True)    # True
 print("True or False :", True or False)    # True
 print("True or True :", True or True)      # True
 
-
+#둘다 True일 때만 True
 print("-- and 연산 --")
 print("False and False :", False and False) # False
 print("False and True :", False and True)   # False
 print("True and False :", True and False)   # False
 print("True and True :", True and True)     # True
 
-
+#반대
 print("-- not 연산 --")
 print("not True :", not True)   # False
 print("not False :", not False) # True

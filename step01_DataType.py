@@ -6,6 +6,7 @@ num1=10
 num2=15.2
 name="kmk"
 yourname="mmm"
+k="www"
 #순서기 중요한 
 #하나의 변수에 여러가지
 foods=["닭발", "삽겹살"," 돈까스"]#list type
